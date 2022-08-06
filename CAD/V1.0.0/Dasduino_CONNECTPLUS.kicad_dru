@@ -1,0 +1,10 @@
+(version 1.0)
+(rule via2via
+(constraint hole_to_hole(min 0.254mm))
+(condition "A.Type=='*Via' && B.Type=='Via'"))
+(rule via2track
+(constraint clearance(min 0.127mm))
+(condition "A.Type=='*Via' && B.Type=='*Track'"))
+(rule track2track
+(constraint clearance(min 0.127mm))
+(condition "A.Type=='*Track' && B.Type=='*Track'"))
