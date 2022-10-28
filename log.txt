@@ -1,1 +1,75 @@
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Dasduino-purple/Dasduino CONNECTPLUS/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   .gitignore
+	modified:   CAD/Change Log.xlsx
+	modified:   CAD/V1.0.0/Dasduino_CONNECTPLUS.kicad_dru
+	modified:   CAD/V1.0.0/Dasduino_CONNECTPLUS.kicad_pcb
+	modified:   CAD/V1.0.0/Dasduino_CONNECTPLUS.kicad_pro
+	modified:   CAD/V1.0.0/Dasduino_CONNECTPLUS.kicad_sch
+	modified:   CAD/V1.1.1/Dasduino_CONNECTPLUS.kicad_dru
+	modified:   CAD/V1.1.1/Dasduino_CONNECTPLUS.kicad_pcb
+	modified:   CAD/V1.1.1/Dasduino_CONNECTPLUS.kicad_pro
+	modified:   CAD/V1.1.1/Dasduino_CONNECTPLUS.kicad_sch
+	modified:   CAD/V1.1.1/PANEL/Dasduino_CONNECTPLUS.kicad_dru
+	modified:   CAD/V1.1.1/PANEL/Dasduino_CONNECTPLUS.kicad_pcb
+	modified:   CAD/V1.1.1/PANEL/Dasduino_CONNECTPLUS.kicad_pro
+	modified:   CAD/V1.1.1/PANEL/Dasduino_CONNECTPLUS.kicad_sch
+	modified:   LICENSE.md
+	new file:   OUTPUTS/Compliance/CE.pdf
+	new file:   OUTPUTS/Compliance/Info.txt
+	new file:   OUTPUTS/Compliance/Safety sheet DE.pdf
+	new file:   OUTPUTS/Compliance/Safety sheet EN.pdf
+	new file:   OUTPUTS/Compliance/UKCA.pdf
+	modified:   OUTPUTS/V1.0.0/Dasduino_CONNECTPLUS.zip
+	modified:   OUTPUTS/V1.0.0/Dasduino_CONNECTPLUS_ibom.html
+	modified:   OUTPUTS/V1.1.1/Dasduino CONNECTPLUS.jpg
+	modified:   OUTPUTS/V1.1.1/Dasduino CONNECTPLUS_ibom.html
+	modified:   OUTPUTS/V1.1.1/Dasduino_CONNECTPLUS.pdf
+	modified:   OUTPUTS/V1.1.1/Dasduino_CONNECTPLUS_182.22x133.6_14.zip
+	modified:   OUTPUTS/V1.1.1/Dasduino_CONNECTPLUS_3D.step
+	modified:   OUTPUTS/V1.1.1/Dasduino_CONNECTPLUS_BOM.csv
+	modified:   README.md
+	new file:   log.txt
+
+[main 8146ad8] Updating open source files.
+ 30 files changed, 6 insertions(+)
+ mode change 100644 => 100755 .gitignore
+ mode change 100644 => 100755 CAD/Change Log.xlsx
+ mode change 100644 => 100755 CAD/V1.0.0/Dasduino_CONNECTPLUS.kicad_dru
+ mode change 100644 => 100755 CAD/V1.0.0/Dasduino_CONNECTPLUS.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.0.0/Dasduino_CONNECTPLUS.kicad_pro
+ mode change 100644 => 100755 CAD/V1.0.0/Dasduino_CONNECTPLUS.kicad_sch
+ mode change 100644 => 100755 CAD/V1.1.1/Dasduino_CONNECTPLUS.kicad_dru
+ mode change 100644 => 100755 CAD/V1.1.1/Dasduino_CONNECTPLUS.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.1.1/Dasduino_CONNECTPLUS.kicad_pro
+ mode change 100644 => 100755 CAD/V1.1.1/Dasduino_CONNECTPLUS.kicad_sch
+ mode change 100644 => 100755 CAD/V1.1.1/PANEL/Dasduino_CONNECTPLUS.kicad_dru
+ mode change 100644 => 100755 CAD/V1.1.1/PANEL/Dasduino_CONNECTPLUS.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.1.1/PANEL/Dasduino_CONNECTPLUS.kicad_pro
+ mode change 100644 => 100755 CAD/V1.1.1/PANEL/Dasduino_CONNECTPLUS.kicad_sch
+ mode change 100644 => 100755 LICENSE.md
+ create mode 100755 OUTPUTS/Compliance/CE.pdf
+ create mode 100755 OUTPUTS/Compliance/Info.txt
+ create mode 100755 OUTPUTS/Compliance/Safety sheet DE.pdf
+ create mode 100755 OUTPUTS/Compliance/Safety sheet EN.pdf
+ create mode 100755 OUTPUTS/Compliance/UKCA.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Dasduino_CONNECTPLUS.zip
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/Dasduino_CONNECTPLUS_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Dasduino CONNECTPLUS.jpg
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Dasduino CONNECTPLUS_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Dasduino_CONNECTPLUS.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Dasduino_CONNECTPLUS_182.22x133.6_14.zip
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Dasduino_CONNECTPLUS_3D.step
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Dasduino_CONNECTPLUS_BOM.csv
+ mode change 100644 => 100755 README.md
+ create mode 100755 log.txt
+https://github.com/SolderedElectronics/Dasduino-CONNECTPLUS-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Dasduino-purple/Dasduino CONNECT/OUTPUTS/V1.1.1: all files are present, commiting...
+Dasduino-CONNECT-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Dasduino-purple/Dasduino CONNECT to Dasduino-CONNECT-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Dasduino-purple/Dasduino CONNECTPLUS/.git/
