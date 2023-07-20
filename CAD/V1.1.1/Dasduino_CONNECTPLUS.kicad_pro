@@ -398,7 +398,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../OUTPUTS/V1.1.1/Dasduino_CONNECTPLUS_3D.step",
+      "step": "C:/Users/Test/Downloads/padovan-stepovi/Dasduino_CONNECTPLUS_3D.step",
       "vrml": ""
     },
     "page_layout_descr_file": "${KICAD_USER_TEMPLATE_DIR}/SCH_template/Soldered SCH template.kicad_wks"
